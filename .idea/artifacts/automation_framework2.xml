@@ -1,0 +1,81 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="automation-framework2">
+    <output-path>$PROJECT_DIR$/out/artifacts/automation_framework2</output-path>
+    <root id="root">
+      <element id="archive" name="automation-framework.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/target/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="automation-framework" />
+      </element>
+      <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:2.8" />
+      <element id="library" level="project" name="Maven: io.cucumber:datatable:7.11.2" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-devtools-v118:4.15.0" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:3.3.3" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:6.1.12" />
+      <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.2" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-exporter-logging:1.28.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-ie-driver:4.15.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.15.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-os:4.15.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:docstring:7.11.2" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.15.0" />
+      <element id="library" level="project" name="Maven: com.codeborne:phantomjsdriver:1.4.3" />
+      <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:3.33.0" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-extension-incubator:1.28.0-alpha" />
+      <element id="library" level="project" name="Maven: io.cucumber:cucumber-core:7.11.2" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-devtools-v119:4.15.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:messages:21.0.1" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-semconv:1.28.0-alpha" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-sdk-common:1.28.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:6.1.12" />
+      <element id="library" level="project" name="Maven: io.micrometer:micrometer-observation:1.12.9" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-remote-driver:4.15.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:cucumber-expressions:16.1.2" />
+      <element id="library" level="project" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+      <element id="library" level="project" name="Maven: io.cucumber:gherkin:26.0.3" />
+      <element id="library" level="project" name="Maven: dev.failsafe:failsafe:3.3.2" />
+      <element id="library" level="project" name="Maven: io.cucumber:html-formatter:20.2.1" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-context:1.28.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-manager:4.15.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:cucumber-java:7.11.2" />
+      <element id="library" level="project" name="Maven: io.cucumber:cucumber-gherkin:7.11.2" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.28.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:6.1.12" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:6.1.12" />
+      <element id="library" level="project" name="Maven: com.google.auto.service:auto-service-annotations:1.1.1" />
+      <element id="library" level="project" name="Maven: io.micrometer:micrometer-commons:1.12.9" />
+      <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.18.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-http:4.15.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-devtools-v117:4.15.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:6.1.3" />
+      <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.2" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-support:4.15.0" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-exec:1.3" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-edge-driver:4.15.0" />
+      <element id="library" level="project" name="Maven: com.google.guava:failureaccess:1.0.1" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-sdk-trace:1.28.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-json:4.15.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:cucumber-gherkin-messages:7.11.2" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-sdk-logs:1.28.0" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-api:1.28.0" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.14.5" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-java:4.15.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-jcl:6.1.3" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:1.28.0" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-sdk:1.28.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:4.15.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:ci-environment:9.1.0" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.15.0" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-api-events:1.28.0-alpha" />
+      <element id="library" level="project" name="Maven: io.cucumber:junit-xml-formatter:0.1.0" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:32.1.2-jre" />
+      <element id="library" level="project" name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.28.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:cucumber-spring:7.11.2" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-api:4.15.0" />
+      <element id="library" level="project" name="Maven: io.cucumber:cucumber-plugin:7.11.2" />
+      <element id="library" level="project" name="Maven: io.cucumber:tag-expressions:5.0.1" />
+      <element id="library" level="project" name="Maven: org.seleniumhq.selenium:selenium-devtools-v85:4.15.0" />
+    </root>
+  </artifact>
+</component>
